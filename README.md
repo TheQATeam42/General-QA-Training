@@ -2,7 +2,15 @@
 
 This is the base project for learning how to be the best QA Automation
 
-Here, most of the commits you will do are for this trainings:
+First, start with this file:
+
+```
+הכשרת בדיקות אוטומטיות - playwright.docx
+```
+
+This file contains the whole training to be the best QA there is
+
+In this specific repository, most of the commits you will do are for this trainings:
 
 1. Typescript
 2. API
